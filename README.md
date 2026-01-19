@@ -1,7 +1,7 @@
 # API GraphQL - Sistema de Museus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-15-orange" />
+  <img src="https://img.shields.io/badge/Java-25-orange" />
   <img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen" />
   <img src="https://img.shields.io/badge/GraphQL-API-purple" />
   <img src="https://img.shields.io/badge/PostgreSQL-Database-blue" />
